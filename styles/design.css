@@ -40,6 +40,13 @@ nav{
     border-style: none;
     
 }
+button:hover{
+    background-color: rgb(188, 188, 25);
+    cursor: pointer;
+    transition: 0.5s;
+    transform-style: preserve-3d;
+     transform: scale(1.05);
+}
 /* body{
     max-width: 1140px;
     margin: 0 auto; */
