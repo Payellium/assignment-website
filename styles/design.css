@@ -144,3 +144,42 @@ header{
     padding: 20px;
     
 }
+
+/* review section */
+.reviews{
+    width: 1140px;
+    height: 342px;
+    gap: 50px;
+   margin-left: 200px;
+    justify-items: center;
+    
+}
+.review-detals{
+    color: rgba(30, 30, 30, 1);
+}
+
+.user-review{
+    display: flex;
+    align-items: center;
+}
+.img-style{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.section-description{
+    gap: 0;
+    width: 366px;
+    height: 243px;
+}
+.all-section{
+    display: flex;
+    width: 1140px;
+    height: 243px;
+    gap: 20px;
+}
+.section-title{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+}
