@@ -56,7 +56,7 @@ nav{
 }
 header{
     height: 698px;
-    width: 1440px;
+    width: 100;
     background-image: url('Hero-bg.png');
 }
 
@@ -92,5 +92,55 @@ header{
     width: 403px;
     height: 328px;
     border-radius: 48px;
+    
+}
+
+/* productive section */
+.productive{
+    width: 1140px;
+    height: 306px;
+    background-color:rgba(78, 71, 255, 0.1);
+    padding: 80px 50px;
+    align-items: center0;
+    justify-content: center;
+    margin: 141px 159px;
+    justify-items: center;
+}
+.productive-heading{
+    font-weight: bold;
+    font-size: 38px;
+    color: #252432;
+    width: 856px;
+    height: 45px;
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.productive-info{
+    display: flex;
+    width: 856px;
+    height: 121px;
+    gap: 158px;
+    margin-top: 0;
+}
+.productive-title{
+    font-weight: bold;
+    font-size: 80px;
+    color: #4E47FF;
+    width: 162px;
+    height: 97px;
+    margin-bottom: 0;
+}
+.number-dtls{
+    font-size: 20px;
+    color: #000000 (50%);
+    width: 120px;
+    height: 24px;
+    
+}
+.numbers{
+    width: 180px;
+    height: 121px;
+    padding: 20px;
     
 }
